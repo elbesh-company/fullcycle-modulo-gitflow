@@ -1,3 +1,10 @@
+## Commitzen
+
+To use commitzen on commits use:
+```shell
+git cz
+```
+
 ## Commitsar
 
 To run commitsar use this shell command:
