@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/elbeshenrique/fullcycle-modulo-gitflow#readme",
   "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
     "husky": "^6.0.0"
   }
 }
